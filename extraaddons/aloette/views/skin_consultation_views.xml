@@ -87,7 +87,7 @@
 
     <!-- Action Window -->
     <record id="action_skin_consultation_window" model="ir.actions.act_window">
-        <field name="name">Skin Consultation</field>
+        <field name="name">Medication</field>
         <field name="res_model">skin.consultation</field>
         <field name="view_mode">tree,form</field>
         <field name="target">main</field>

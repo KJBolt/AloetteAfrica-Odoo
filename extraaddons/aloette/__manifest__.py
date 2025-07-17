@@ -23,13 +23,14 @@
         'views/purchase_order.xml',
         'views/sales_order.xml',
         'views/invoice_inherit.xml',
+        'views/login_template.xml',
     ],
     'assets': {
         'web.assets_backend': [
             'aloette/static/src/components/skin_consultation/skin_consultation.xml',
             'aloette/static/src/components/skin_consultation/skin_consultation.js',
             'aloette/static/src/components/skin_consultation/skin_consultation.scss',
-            # 'aloette/static/src/js/change_title.js',
+            'aloette/static/src/js/change_title.js',
         ],
     },
     'images': ['static/description/banner.png'],
