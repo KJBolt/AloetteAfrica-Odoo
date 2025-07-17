@@ -93,7 +93,7 @@
         <field name="target">main</field>
         <field name="help" type="html">
             <p class="o_view_nocontent_smiling_face">
-                Skin Care.
+                Skin Care
             </p>
             <p>
                 Manage patients skin care.
