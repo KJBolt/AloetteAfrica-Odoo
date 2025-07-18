@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <template id="layout" inherit_id="web.layout" name="Favicon">
+        <xpath expr="//link[@rel='shortcut icon']" position="replace">
+            <link rel="shortcut icon" href="/aloette/static/description/logo1.png" type="image/png"/>
+        </xpath>
+    </template>
+</odoo>

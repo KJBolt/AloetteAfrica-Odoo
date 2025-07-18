@@ -24,8 +24,13 @@
         'views/sales_order.xml',
         'views/invoice_inherit.xml',
         'views/login_template.xml',
+        'views/favicon_template.xml',
     ],
     'assets': {
+        'web.assets_frontend': [
+            'aloette/static/src/js/change_title.js',
+        ],
+
         'web.assets_backend': [
             'aloette/static/src/components/skin_consultation/skin_consultation.xml',
             'aloette/static/src/components/skin_consultation/skin_consultation.js',
